@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AppGatos</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="stats_title">Stats</string>
+    <string name="stats"><b>indoor</b>: 0\n\n
+        <b>lap</b>: 0\n\n
+        <b>adaptability</b>: 5\n\n
+        <b>affection_level</b>: 5\n\n
+        <b>child_friendly</b>: 4\n\n
+        <b>cat_friendly</b>: 4\n\n
+        <b>dog_friendly</b>: 5\n\n
+        <b>energy_level</b>: 5\n\n
+        <b>grooming</b>: 1\n\n
+        <b>health_issues</b>: 3\n\n
+        <b>intelligence</b>: 5\n\n
+        <b>shedding_level</b>: 3\n\n
+        <b>social_needs</b>: 5\n\n
+        <b>stranger_friendly</b>: 3\n\n
+        <b>vocalisation</b>: 5\n\n
+        <b>bidability</b>: 3\n\n
+        <b>experimental</b>: 0\n\n
+        <b>hairless</b>: 0\n\n
+        <b>natural</b>: 0\n\n
+        <b>rare</b>: 0\n\n
+        <b>rex</b>: 0\n\n
+        <b>suppressed_tail</b>: 0\n\n
+        <b>short_legs</b>: 0\n\n
+    <b>hypoallergenic</b>: 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
